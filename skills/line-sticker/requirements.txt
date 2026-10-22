@@ -1,0 +1,6 @@
+pillow>=10
+pyyaml>=6
+numpy>=1.24
+uharfbuzz>=0.40   # Thai shaping for font lettering
+# optional, only for `generate --via openai` (paid API)
+# openai>=1.80

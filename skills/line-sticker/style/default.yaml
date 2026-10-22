@@ -1,0 +1,16 @@
+# Style Lock กลาง ใส่ในทุก prompt ของทุกธีมที่ใช้ style: default
+# อยากได้สไตล์อื่น (เช่น pastel, pixel) ให้สร้างไฟล์ใหม่ในโฟลเดอร์นี้ แล้วตั้ง style: <ชื่อไฟล์> ใน theme.yaml
+lock: |
+  Style: chibi proportions (big head, small body), bold clean cartoon line art, vivid colors,
+  thick white die-cut sticker outline around the character, text and props as one shape,
+  fully transparent background (no white or checkered background).
+  Composition: square 1:1 canvas, like a real LINE sticker: the character is BIG and the text is BIG,
+  together they fill the whole square edge to edge, only a thin empty margin around the white outline.
+  The overall silhouette must be as wide as it is tall (a compact blob), never tall-and-narrow or
+  a thin wide strip: put the text beside the character or overlapping its head/shoulder, never as a
+  separate band stacked far above. The text must be easy to read on a phone chat:
+  letters at least about 1/3 of the image height, thick strokes, high contrast.
+  Text style: chunky rounded bubble lettering with white stroke and dark outline,
+  glossy highlights, small yellow sparkles / emphasis lines around.
+  Render the text EXACTLY as written; Thai spelling, vowels and tone marks must be correct.
+  Exactly one sticker per image, no watermark, no extra text.

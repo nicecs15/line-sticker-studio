@@ -1,0 +1,61 @@
+# Example set. Copy this folder into ./themes/ of your work folder, then run generate and build.
+name: แมวบัญชี ปิดงบทันใจ
+description: แมวนักบัญชีสายขยัน ใช้คุยงานในออฟฟิศ
+count: 8
+export_type: big
+style: clean-art
+main: 1
+
+lettering:
+  font: Kanit-ExtraBold
+  position: top
+  colors: ["#E8590C", "#2E86DE", "#20A35A", "#D6336C"]
+
+line:
+  copyright: "Your Name"
+  en:
+    title: "Accountant Cat: Books Closed!"
+    description: "A hard-working accountant cat for office chats: greetings, thanks, deadlines, coffee breaks and payday joy."
+  th:
+    title: "แมวบัญชี ปิดงบทันใจ"
+    description: "แมวนักบัญชีสายขยัน ทักทาย ขอบคุณ ปิดงบ เร่งเดดไลน์ พักกินกาแฟ และดีใจวันเงินเดือนออก"
+
+character: |
+  A chubby grey tabby cat with a round head, big amber eyes and a small pink nose,
+  white muzzle and white paws, darker grey stripes on forehead and tail.
+  Wears round thin black glasses, a mint-green short-sleeve shirt with a navy necktie,
+  and a yellow pencil tucked behind the left ear.
+
+style_notes: |
+  Palette: soft grey fur, mint green, navy, warm yellow accents.
+
+stickers:
+  - n: 1
+    text: "สวัสดี\nครับ"
+    pose: "Full body standing, waving the right paw high, big friendly smile, slight head tilt"
+  - n: 2
+    text: "ขอบคุณ\nมากครับ"
+    pose: "Bowing politely with both paws pressed together in a Thai wai, eyes closed happily"
+  - n: 3
+    text: "รับทราบ\nครับ"
+    pose: "Standing straight giving a crisp salute with the right paw, serious proud face"
+    props: "clipboard held under the left arm"
+  - n: 4
+    text: "ขอเวลา\nแป๊บนึง"
+    pose: "Typing furiously on a small calculator, sweat drop on the head, focused squint"
+    props: "small white calculator with a blank screen"
+  - n: 5
+    text: "งบปิด\nแล้วจ้า"
+    pose: "Jumping in the air with both arms raised in victory, mouth wide open laughing"
+    props: "a few paper sheets flying"
+  - n: 6
+    text: "ตัวเลข\nไม่ตรง!"
+    pose: "Shocked face with fur standing up, glasses slipping down the nose, both paws on cheeks"
+  - n: 7
+    text: "ขอกาแฟ\nก่อน"
+    pose: "Sleepy half-closed eyes, hugging a large steaming mug with both paws, slouched"
+    props: "large navy coffee mug with steam"
+  - n: 8
+    text: "เงินเดือน\nออกแล้ว"
+    pose: "Dancing on one foot, holding a fan of banknotes, sparkling star eyes"
+    props: "fan of plain green banknotes"

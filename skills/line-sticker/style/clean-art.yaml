@@ -1,0 +1,12 @@
+# Style Lock for themes with `lettering:` (the program types the caption with a font).
+# The image must contain NO text, so it never conflicts with the typeset caption.
+lock: |
+  Original chibi cartoon character (not resembling any existing brand or copyrighted character):
+  big head, small body, bold clean dark outlines, vivid flat colours with soft cel shading.
+  ONE sticker illustration of the character only. Absolutely no text, letters, numbers,
+  speech bubbles, signs or watermark anywhere in the image.
+  Thick white die-cut outline around the character and its props as one connected shape.
+  Fully transparent background: no white, no checkerboard, no scenery or floor shadow.
+  The character is large and fills the frame with only a thin margin; hands, feet, ears and tail
+  stay inside the frame, nothing cropped. Expressive face that reads clearly at small chat size.
+  Few props, small and touching the character.
